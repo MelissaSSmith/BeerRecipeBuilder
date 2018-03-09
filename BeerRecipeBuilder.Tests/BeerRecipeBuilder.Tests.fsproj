@@ -10,7 +10,7 @@
       <Paket>True</Paket>
       <Link>paket-files/FsUnit.fs</Link>
     </Compile>
-    <Compile Include="BeerRecipeBuilder.fs" />
+    <Compile Include="BeerRecipeBuilder.Tests.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <Import Project="..\.paket\Paket.Restore.targets" />

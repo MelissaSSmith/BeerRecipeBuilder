@@ -2,6 +2,12 @@ source https://www.nuget.org/api/v2
 
 framework: >= net461
 nuget FSharp.Core
+github fsprojects/FsUnit src/FsUnit.NUnit/FsUnit.fs
+
+group Test
+    source https://nuget.org/api/v2
+    nuget NUnit.Console
+    nuget NUnit
 
 group Build
 source https://www.nuget.org/api/v2

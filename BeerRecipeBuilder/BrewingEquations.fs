@@ -1,4 +1,4 @@
-module BrewingEquations
+module BeerRecipeBuilder.BrewingEquations
 open System
 
 let functionOfTime (time : float) = (1.0 - Math.Pow(Math.E, -0.04 * time)) / 4.15
