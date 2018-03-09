@@ -3,7 +3,7 @@ open System
 
 let functionOfTime (time : float) = (1.0 - Math.Pow(Math.E, -0.04 * time)) / 4.15
 
-let functionOfGravity (boilGravity : float) = 1.65 * Math.Pow(0.000125, boilGravity - 1.0)
+let functionOfGravity (boilGravity : double) = 1.65 * Math.Pow(0.000125, (boilGravity - 1.0))
 
 let alphaAcidUnit (ouncesOfHops : float) (aAPercentage : float) = 
     ouncesOfHops * aAPercentage
@@ -20,10 +20,10 @@ let boilGravity (massOfExtract : float) (poundPerGallon : float) (wortVolume : f
 let alcoholByVolume (originalGravity : float) (finalGravity : float) =
     (originalGravity - finalGravity) * 131.0
 
-let hopUtilization (time : float) (boilGravity : float) = functionOfTime time * functionOfGravity boilGravity
+let hopUtilization (time : float) (boilGravity : double) = functionOfTime time * functionOfGravity boilGravity
 
 let attenuation (originalGravity : float) (finalGravity : float) =
-    ((originalGravity - finalGravity) - 1.0) / (originalGravity - 1.0)
+    (originalGravity - finalGravity) / (originalGravity - 1.0)
 
 let maltRequiredPPG = 0
 
