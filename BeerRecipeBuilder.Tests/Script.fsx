@@ -1,2 +1,3 @@
 #load "BeerRecipeBuilder.Tests.fs"
-// Define your library scripting code here
+open BeerRecipeBuilder.Tests.BrewingEquationsTests
+

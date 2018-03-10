@@ -5,6 +5,7 @@
 #r "./packages/build/FAKE/tools/FakeLib.dll"
 
 open Fake
+open Fake.Testing
 open System
 
 // --------------------------------------------------------------------------------------
@@ -67,6 +68,16 @@ Target "Build" (fun _ ->
     )
 )
 
+let testDlls = !! (buildDir + "*Tests.dll")
+
+Target "NUnitTest" (fun _ ->
+    testDlls
+        |> NUnit3 (fun p -> 
+            {p with
+                ShadowCopy = false;
+                OutputDir = "../../../../" })
+)
+
 // --------------------------------------------------------------------------------------
 // Build order
 // --------------------------------------------------------------------------------------
@@ -75,5 +86,6 @@ Target "Build" (fun _ ->
   ==> "InstallDotNetCLI"
   ==> "Restore"
   ==> "Build"
+  ==> "NUnitTest"
 
 RunTargetOrDefault "Build"

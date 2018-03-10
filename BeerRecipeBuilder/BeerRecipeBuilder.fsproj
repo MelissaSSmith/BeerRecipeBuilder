@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputType>Library</OutputType>
-    <TargetFramework>net461</TargetFramework>
-    <DebugType>portable</DebugType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="..\paket-files\fsprojects\FsUnit\src\FsUnit.NUnit\FsUnit.fs">
-      <Paket>True</Paket>
-      <Link>paket-files/FsUnit.fs</Link>
-    </Compile>
     <Compile Include="BeerRecipeBuilder.fs" />
+    <Compile Include="BrewingEquations.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <Import Project="..\.paket\Paket.Restore.targets" />
