@@ -40,3 +40,40 @@ type Hops =
 type Srm = 
   {Name: string
    Hex: string}
+
+type HopForm =
+    | Pellet 
+    | Plug
+    | Leaf
+
+type HopUse =
+    | Boil
+    | DryHop
+    | Mash
+    | FirstWort
+    | Aroma
+
+type YeastTypes =
+    | Ale
+    | Lager
+    | Wheat
+    | Wine
+    | Champagne
+
+type YeastForms =
+    | Liquid
+    | Dry
+    | Slant
+    | Culture
+
+type FermentableType =
+    | Grain
+    | Dugar
+    | Extract
+    | Dry Extract
+    | Adjunct
+
+type RecipeTypes =
+    | Extract
+    | AllGrain
+    | Partial Mash
