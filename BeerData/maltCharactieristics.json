@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "name": "Head",
+            "description": "Helps the head retention of the beer."
+        },
+        {
+            "name": "Biscuit",
+            "description": "Imparts a biscuity quality upon the beer."
+        },
+        {
+            "name": "Aromatic",
+            "description": "Imparts an aromatic quality upon the beer."
+        },
+        {
+            "name": "Malty",
+            "description": "Imparts a malty flavor upon the beer."
+        },
+        {
+            "name": "Burnt",
+            "description": "Imparts a burnt tasting quality upon the beer."
+        },
+        {
+            "name": "Coffee",
+            "description": "Imparts a coffee flavor upon the beer."
+        },
+        {
+            "name": "Grainy",
+            "description": "Imparts a grainty taste upon the beer."
+        },
+        {
+            "name": "Nutty",
+            "description": "Imparts a nutty flavor upon the beer."
+        },
+        {
+            "name": "Roasted",
+            "description": "Imparts a roasted flavor upon the beer."
+        },
+        {
+            "name": "Body",
+            "description": "Increases the body of the beer."
+        },
+        {
+            "name": "Caramel",
+            "description": "Imparts a caramel quality upon the beer."
+        },
+        {
+            "name": "Sweet",
+            "description": "Imparts a sweet flavor upon the beer."
+        },
+        {
+            "name": "Chocolate",
+            "description": "Imparts a chocolate quality upon the beer."
+        },
+        {
+            "name": "Toasted",
+            "description": "Imparts a toasted flavor upon the beer."
+        },
+        {
+            "name": "Smoked",
+            "description": "Imparts a smoked quality upon the beer."
+        }
+    ]
+}

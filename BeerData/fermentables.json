@@ -1,0 +1,5066 @@
+{
+    "data": [
+        {
+            "name": "Acidulated Malt",
+            "description": "Lowers mash, wort, and beer pH. Contains 1-2% lactic acid. Enhances enzymatic activity in mash and improves extract efficiency. Lightens color in pale brews. Enhances stability and extends shelf life of finished beer. Promotes well-rounded, complex beer flavor.",
+            "countryOfOrigin": "DE",
+            "srmId": 3,
+            "srmPrecise": 3,
+            "moistureContent": 7,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 58.4,
+            "potential": 1.027,
+            "protein": 12,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Amber Malt",
+            "description": "Roasted specialty malt used in some English browns, milds and old ales to add color and a biscuit taste. Intense flavour",
+            "countryOfOrigin": "GB",
+            "srmId": 22,
+            "srmPrecise": 22,
+            "moistureContent": 2.8,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 20,
+            "dryYield": 75,
+            "potential": 1.035,
+            "protein": 10,
+            "maxInBatch": 20,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Biscuit",
+                    "description": "Imparts a biscuity quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Aromatic Malt",
+            "description": "Aromatic malt is a kilned barley malt used to give beer a strong, aggressive malt aroma and rich color.",
+            "countryOfOrigin": "BE",
+            "srmId": 26,
+            "srmPrecise": 26,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 77.9,
+            "potential": 1.036,
+            "protein": 0,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Black",
+            "description": "Unmalted barley roasted at high temperature to create a dry, coffee-like flavor. Imparts the sharp, acrid flavor characteristic of dry stouts.  Gives dryness to a stout or porter -- much more so than regular Roasted Barley.",
+            "countryOfOrigin": "US",
+            "srmId": 41,
+            "srmPrecise": 500,
+            "moistureContent": 5,
+            "coarseFineDifference": 1.5,
+            "dryYield": 55,
+            "potential": 1.025,
+            "protein": 13.2,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Roasted",
+            "description": "Unmalted and roasted at high temperature to create a burnt, grainy, coffee-like flavor. Imparts a red to deep brown color to beer, and very strong roasted flavor. Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for coffee flavor.",
+            "countryOfOrigin": "US",
+            "srmId": 41,
+            "srmPrecise": 300,
+            "moistureContent": 5,
+            "coarseFineDifference": 1.5,
+            "dryYield": 55,
+            "potential": 1.025,
+            "protein": 13.2,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Burnt",
+                    "description": "Imparts a burnt tasting quality upon the beer."
+                },
+                {
+                    "name": "Coffee",
+                    "description": "Imparts a coffee flavor upon the beer."
+                },
+                {
+                    "name": "Grainy",
+                    "description": "Imparts a grainty taste upon the beer."
+                },
+                {
+                    "name": "Nutty",
+                    "description": "Imparts a nutty flavor upon the beer."
+                },
+                {
+                    "name": "Roasted",
+                    "description": "Imparts a roasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Biscuit Malt",
+            "description": "Another Belgian malt, this gives a biscuit like flavor and aroma. Use for English ales, brown ales and porters. Can be used as a substitute for toasted malt.",
+            "countryOfOrigin": "BE",
+            "srmId": 23,
+            "srmPrecise": 23,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 6,
+            "dryYield": 79,
+            "potential": 1.036,
+            "protein": 10.5,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Biscuit",
+                    "description": "Imparts a biscuity quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Patent",
+            "description": "Black patent malt, sometimes called simply black malt, is the darkest of the common roasted malts. It gives beer dark color and flavor with a very different character than roasted barley.",
+            "countryOfOrigin": "",
+            "srmId": 41,
+            "srmPrecise": 500,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 54.1,
+            "potential": 1.025,
+            "protein": 0,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Burnt",
+                    "description": "Imparts a burnt tasting quality upon the beer."
+                },
+                {
+                    "name": "Roasted",
+                    "description": "Imparts a roasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Brown Malt",
+            "description": "Imparts a dry, biscuit flavor. Used in nut brown ales, porters and some Belgian ales.",
+            "countryOfOrigin": "GB",
+            "srmId": 65,
+            "srmPrecise": 65,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 0,
+            "dryYield": 70,
+            "potential": 1.032,
+            "protein": 0,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Biscuit",
+                    "description": "Imparts a biscuity quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Brumalt",
+            "description": "Dark German malt developed to add malt flavor of Alt, Marzen and Oktoberfest beers. Helps create authentic maltiness without having to do a decoction mash. Rarely available for homebrewers.",
+            "countryOfOrigin": "DE",
+            "srmId": 23,
+            "srmPrecise": 23,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 0,
+            "dryYield": 71.7,
+            "potential": 1.033,
+            "protein": 7,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraAroma",
+            "description": "Very dark crystal malt - similar to a crystal 120 or Caramunich 120 malt. Adds strong caramel flavor, red color, and malty aroma.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 130,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 0,
+            "dryYield": 75,
+            "potential": 1.035,
+            "protein": 11.7,
+            "maxInBatch": 15,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Carafa I",
+            "description": "Used to intensify aroma and color in dark Munich beers and stouts.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 337,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 0,
+            "dryYield": 70,
+            "potential": 1.032,
+            "protein": 11.7,
+            "maxInBatch": 5,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Carafa II",
+            "description": "Used to intensify aroma and color in dark Munich beers and stouts.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 412,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 70,
+            "potential": 1.032,
+            "protein": 11.7,
+            "maxInBatch": 5,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Carafa III",
+            "description": "Used to intensify aroma and color in dark Munich beers and stouts.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 525,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 70,
+            "potential": 1.032,
+            "protein": 11.7,
+            "maxInBatch": 5,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraFoam",
+            "description": "Significantly increases foam/head retention and body of the beer.",
+            "countryOfOrigin": "",
+            "srmId": 1,
+            "srmPrecise": 1,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 100L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 10L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 110L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 120L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 135L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 145L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 150L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 15L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 200L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 20L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 25L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 300L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 30L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 40L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 45L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 50L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 55L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 5L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 60L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "id": 9,
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 65L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 70L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 75L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 80L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 85L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 8L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 90L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt 95L",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraPils/Dextrin Malt",
+            "description": "Dextrine malt is a general term for a set of malts, including CaraPils and others, used to increase foam, head retention, sweetness, and body. Dextrine malts contain a lot of dextrins, sugar structures that are resistant to enzyme action that remain in the finished beer.",
+            "countryOfOrigin": "US",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 72,
+            "potential": 1.033,
+            "protein": 13.2,
+            "maxInBatch": 20,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraPils/Dextrin Malt - Organic",
+            "description": "Dextrine malt is a general term for a set of malts, including CaraPils and others, used to increase foam, head retention, sweetness, and body. Dextrine malts contain a lot of dextrins, sugar structures that are resistant to enzyme action that remain in the finished beer.",
+            "countryOfOrigin": "US",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 72,
+            "potential": 1.033,
+            "protein": 13.2,
+            "maxInBatch": 20,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraRed",
+            "description": "Carared™ is a trademarked name for a variety of crystal malt designed to add both flavor and a deep red color to beer. Also contributes to head retention.",
+            "countryOfOrigin": "US",
+            "srmId": 20,
+            "srmPrecise": 20,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 75,
+            "potential": 1.035,
+            "protein": 13.2,
+            "maxInBatch": 20,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraVienne Malt",
+            "description": "A light Belgian crystal malt used in Trappist and Abbey style Belgian ales.",
+            "countryOfOrigin": "BE",
+            "srmId": 22,
+            "srmPrecise": 22,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 0,
+            "dryYield": 73.9,
+            "potential": 1.034,
+            "protein": 0,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraWheat",
+            "description": "Caramel wheat malt, also known by the Weyermann trademarked name Carawheat, is prepared by the same method as traditional barley crystal and caramel malt.",
+            "countryOfOrigin": "",
+            "srmId": 46,
+            "srmPrecise": 46,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 75.7,
+            "potential": 1.035,
+            "protein": 0,
+            "maxInBatch": 30,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Chocolate Malt",
+            "description": "A dark malt that gives a rich red or brown color and a nutty flavor, used in brown ales, porters, and some stouts.",
+            "countryOfOrigin": "US",
+            "srmId": 41,
+            "srmPrecise": 350,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 60,
+            "potential": 1.028,
+            "protein": 13.2,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Chocolate",
+                    "description": "Imparts a chocolate quality upon the beer."
+                },
+                {
+                    "name": "Coffee",
+                    "description": "Imparts a coffee flavor upon the beer."
+                },
+                {
+                    "name": "Nutty",
+                    "description": "Imparts a nutty flavor upon the beer."
+                },
+                {
+                    "name": "Toasted",
+                    "description": "Imparts a toasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Chocolate Malt - Organic",
+            "description": "Dextrine malt is a general term for a set of malts, including CaraPils and others, used to increase foam, head retention, sweetness, and body. Dextrine malts contain a lot of dextrins, sugar structures that are resistant to enzyme action that remain in the finished beer.",
+            "countryOfOrigin": "US",
+            "srmId": 41,
+            "srmPrecise": 350,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 60,
+            "potential": 1.028,
+            "protein": 13.2,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Chocolate",
+                    "description": "Imparts a chocolate quality upon the beer."
+                },
+                {
+                    "name": "Coffee",
+                    "description": "Imparts a coffee flavor upon the beer."
+                },
+                {
+                    "name": "Nutty",
+                    "description": "Imparts a nutty flavor upon the beer."
+                },
+                {
+                    "name": "Toasted",
+                    "description": "Imparts a toasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Chocolate Rye Malt",
+            "description": "Primarily used for color and aroma in top-fermented speciality beers.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 250,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 67.5,
+            "potential": 1.031,
+            "protein": 11.7,
+            "maxInBatch": 5,
+            "requiresMashing": "N",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Chocolate Wheat Malt",
+            "description": "Intensifies aroma and color in top-fermented beers such as dark wheat beers.",
+            "countryOfOrigin": "DE",
+            "srmId": 41,
+            "srmPrecise": 400,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 71,
+            "potential": 1.033,
+            "protein": 11.7,
+            "maxInBatch": 5,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Golden Promise",
+            "description": "An early-maturing spring barley, it is the Scottish equivalent of Maris Otter. Though brewers north of the English border claim that its sweet, clean flavor is superior to Maris Otter. Golden Promise malt has a depth of flavor that makes it the ideal base malt for both UK and USA-style IPAs. Golden Promise is also used extensively by premium whisky distilleries such as The Macallan.",
+            "countryOfOrigin": "GB",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 3,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 81,
+            "potential": 0,
+            "protein": 9.5,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Honey Malt",
+            "description": "This Canadian malt imparts a honey-like flavor. It also also sometimes called Brumalt. Intensely sweet - adds a sweet malty flavor sometimes associated with honey.",
+            "countryOfOrigin": "CA",
+            "srmId": 25,
+            "srmPrecise": 25,
+            "moistureContent": 3.8,
+            "coarseFineDifference": 2,
+            "diastaticPower":0,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 10.5,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Lager Malt",
+            "description": "Very light lager malt used to make Pilsner, Lager and other light beers. May be used as a base malt.",
+            "countryOfOrigin":"",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 100,
+            "dryYield": 82.5,
+            "potential": 1.038,
+            "protein": 11,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Maris Otter",
+            "description": "Maris Otter is an English thoroughbred and this winter barley variety is still the favored choice of many UK cask ale brewers. In the field, its yield has been surpassed hugely by more modern varieties, so it has to be grown on contract for the maltster each year by selected farmers. The resulting malt is typically described as having a rich, nutty flavor. Performance in the brewhouse is predictable and consistent with excellent run-offs.",
+            "countryOfOrigin": "GB",
+            "srmId": 3,
+            "srmPrecise": 3,
+            "moistureContent": 3,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 120,
+            "dryYield": 82.5,
+            "potential": 1.038,
+            "protein": 11.7,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Nutty",
+                    "description": "Imparts a nutty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Melanoidin Malt",
+            "description": "Aromatic malt from Bamberg, Germany. Promotes a full flavor and rounds off beer color. Promotes deep red color and malty flavor.",
+            "countryOfOrigin": "DE",
+            "srmId": 20,
+            "srmPrecise": 20,
+            "moistureContent": 3.5,
+            "coarseFineDifference": 1.3,
+            "diastaticPower": 10,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 11,
+            "maxInBatch": 15,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Mild Malt",
+            "description": "Also called \"English Mild\" - a light specialty malt used in Brown Ales.",
+            "countryOfOrigin": "GB",
+            "srmId": 4,
+            "srmPrecise": 4,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 53,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 10.6,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt",
+            "description": "Munich Malt has a malty sweet flavor characteristic and adds a reddish amber color to the beer. It has enough diastatic power to convert itself, but needs help from another malt, such as 2-row malt, to convert other grains.",
+            "countryOfOrigin": "DE",
+            "srmId": 9,
+            "srmPrecise": 9,
+            "moistureContent": 5,
+            "coarseFineDifference": 1.3,
+            "diastaticPower": 72,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 11.5,
+            "maxInBatch": 80,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Malted",
+            "description": "Adds body, mouth feel and head retention to the beer Creates chill haze in lighter beers, so is primarily used in dark ones.",
+            "countryOfOrigin": "US",
+            "srmId": 1,
+            "srmPrecise": 1,
+            "moistureContent": 9,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 9,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Malt - Optic",
+            "description": "Optic can be used as the main ingredient in Bitters, Milds and Stouts, producing consistent and well modified wort within the standard Ale colour range. The wort produced tends to be sweet and flavourful. Optic also produces highly aromatic qualities.",
+            "countryOfOrigin": "GB",
+            "srmId": 3,
+            "srmPrecise": 3,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "moistureContent": 3,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Peated Malt",
+            "description": "A robust smoky malt used in Scottish and wee heavy ales.  This malt is lightly peated and used to enhance flavor in Scottish type ales. While the malt is in the kiln, peat moss outside the kiln is gently smoked over slow burning coals allowing its vapors to drift above the malt. Peated malt is also used in the making of some of Scotland's finest Scotch.",
+            "countryOfOrigin": "GB",
+            "srmId": 3,
+            "srmPrecise": 2.8,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 74,
+            "potential": 1.034,
+            "protein":0,
+            "maxInBatch": 20,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Rahr 2-Row Malt",
+            "description": "Maillard Malts is proud to bring you this fantastic and economical all-purpose base malt. It is made from Harrington and Metcalf barley grown on the western prairies of the US and malted in Minnesota. It is low in total nitrogen, well modified, high in enzymes, and easily converts with a single step infusion mash. It has a light, clean, smooth flavor. One of our most popular base malts, it is perfect for building nearly any style ale. 1.7°L",
+            "countryOfOrigin": "US",
+            "srmId": 3,
+            "srmPrecise": 0,
+            "moistureContent": 4,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 11,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Six-Row Pale Malt",
+            "description": "6-Row is a base malt with a higher diastic power than 2-Row Malt to help convert other adjuncts. 6-Row has a moderate malty flavour.",
+            "countryOfOrigin": "US",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 150,
+            "dryYield": 76,
+            "potential": 1.035,
+            "protein": 13,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[],
+            "category": "malt"
+        },
+        {
+            "name": "Smoked Malt",
+            "description": "Malt that has been smoked over an open fire to create a distinctive \"smoked\" flavor and aroma. Used primarily for German Rauchbier but can also be added to Brown Ales and Porters.",
+            "countryOfOrigin": "DE",
+            "srmId": 9,
+            "srmPrecise": 9,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 80,
+            "potential": 1.037,
+            "protein": 11.5,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Smoked",
+                    "description": "Imparts a smoked quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Special B Malt",
+            "description": "Special B refers to a type of dark, flavorful crystal malt traditionally malted in Belgium. In small amounts, it gives a unique flavor to the finished beer that is often compared to raisins or dried fruit.",
+            "countryOfOrigin": "",
+            "srmId": 41,
+            "srmPrecise": 180,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 64.9,
+            "potential": 1.03,
+            "protein": 0,
+            "maxInBatch": 10,
+            "requiresMashing": "N",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Special Roast",
+            "description": "Use for English ales, nut brown ales and porters. Adds a toasted, biscuit like flavor and aroma.",
+            "countryOfOrigin": "US",
+            "srmId": 50,
+            "srmPrecise": 50,
+            "moistureContent": 2.5,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 6,
+            "dryYield": 72,
+            "potential": 1.033,
+            "protein": 10.5,
+            "maxInBatch": 10,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Biscuit",
+                    "description": "Imparts a biscuity quality upon the beer."
+                },
+                {
+                    "name": "Toasted",
+                    "description": "Imparts a toasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Toasted Malt",
+            "description": "A malt that adds reddish orange color and body without adding sweetness.",
+            "countryOfOrigin": "US",
+            "srmId": 5,
+            "srmPrecise": 4.7,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 75,
+            "dryYield": 63,
+            "potential": 1.029,
+            "protein": 10.3,
+            "maxInBatch": 15,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pale Malt",
+            "description": "The is the standard starting point for almost all beer recipes. Smooth with a less grainy more moderate flavour.",
+            "countryOfOrigin": "US",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 140,
+            "dryYield": 79,
+            "potential": 1.036,
+            "protein": 12.3,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pilsner Malt - Belgian",
+            "description": "This base malt is used primarily for Pilsner style beers.  Base malt for Continental lagers",
+            "countryOfOrigin": "BE",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 105,
+            "dryYield": 79,
+            "potential": 1.036,
+            "protein": 10.5,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pilsner Malt - Germany",
+            "description": "This base malt is used primarily for Pilsner style beers.  Pilsner/Bohemian Lager Base",
+            "countryOfOrigin": "DE",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 110,
+            "dryYield": 81,
+            "potential": 1.037,
+            "protein": 11,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pilsner Malt - UK",
+            "description": "This base malt is used primarily for Pilsner style beers. Pilsner base malt",
+            "countryOfOrigin": "GB",
+            "srmId": 1,
+            "srmPrecise": 1,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 60,
+            "dryYield": 78,
+            "potential": 1.036,
+            "protein": 10,
+            "maxInBatch": 100,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Victory Malt",
+            "description": "Toasted malt that adds a \"Nutty\", \"Biscuit\", \"Baking Bread\" and/or toasted flavor to English ales.",
+            "countryOfOrigin": "US",
+            "srmId": 26,
+            "srmPrecise": 26,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower":0,
+            "dryYield": 73,
+            "potential": 1.034,
+            "protein": 13.2,
+            "maxInBatch": 15,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Aromatic",
+                    "description": "Imparts an aromatic quality upon the beer."
+                },
+                {
+                    "name": "Biscuit",
+                    "description": "Imparts a biscuity quality upon the beer."
+                },
+                {
+                    "name": "Nutty",
+                    "description": "Imparts a nutty flavor upon the beer."
+                },
+                {
+                    "name": "Toasted",
+                    "description": "Imparts a toasted flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Vienna Malt",
+            "description": "Vienna Malt is a kiln-dried barley malt darker than pale ale malt, but not as dark as Munich Malt. It imparts a golden to orange color and a distinctive toast or biscuit malt aroma to the beer.",
+            "countryOfOrigin":"",
+            "srmId": 4,
+            "srmPrecise": 3.5,
+            "moistureContent":0,
+            "coarseFineDifference":0,
+            "diastaticPower":0,
+            "dryYield":0,
+            "potential": 1.036,
+            "protein":0,
+            "maxInBatch": 90,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Belgian",
+            "description": "",
+            "countryOfOrigin": "BE",
+            "srmId": 2,
+            "srmPrecise": 2,
+            "moistureContent": 4,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 74,
+            "dryYield": 81,
+            "potential": 1.037,
+            "protein": 11.5,
+            "maxInBatch": 60,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Dark",
+            "description": "Dark malted wheat base for use in dark wheat styles such as Dunkleweizen.",
+            "countryOfOrigin": "DE",
+            "srmId": 9,
+            "srmPrecise": 9,
+            "moistureContent": 3.5,
+            "coarseFineDifference": 1.5,
+            "diastaticPower": 10,
+            "dryYield": 84,
+            "potential": 1.039,
+            "protein": 11.5,
+            "maxInBatch": 20,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - German",
+            "description": "Malted wheat base for use in all wheat styles.",
+            "countryOfOrigin": "DE",
+            "srmId": 2,
+            "srmPrecise": 2.4,
+            "moistureContent": 4,
+            "coarseFineDifference": 2.2,
+            "diastaticPower": 130,
+            "dryYield": 86,
+            "potential": 1.04,
+            "protein": 14.5,
+            "maxInBatch": 60,
+            "requiresMashing": "Y",
+            "characteristics":[
+                
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - White",
+            "description": "White wheat gives a malty flavor not available from raw wheat.",
+            "countryOfOrigin": "US",
+            "srmId": 2,
+            "srmPrecise": 2.4,
+            "moistureContent": 4,
+            "coarseFineDifference": 2.2,
+            "diastaticPower": 130,
+            "dryYield": 86,
+            "potential": 1.04,
+            "protein": 14.5,
+            "maxInBatch": 60,
+            "requiresMashing": "Y",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Abbey Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Asheburne Mild Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Bamberg Smoked Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Flaked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Hulls",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Lightly Roasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Malted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Raw",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Roasted/De-husked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Barley - Torrefied",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Beechwood Smoked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Belgian Pale",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Belgian Pilsner",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Coffee",
+                    "description": "Imparts a coffee flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Malt - Debittered",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Malt - Organic",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Roast",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Black Treacle",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Blackprinz Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Blue Agave Nectar",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Blue Corn",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Bonlander",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Briess 2-row Chocolate Malt",
+            "description": "Rich roasted coffee, cocoa.\r\nThe chocolate flavor is very complementary when used in higher percentages in Porters, Stouts, Brown Ales,\r\nDunkels and other dark beers.\r\n Use in all styles for color.\r\n Produced in the U.S.A. from AMBA/BMBRI recommended 2-Row malting varieties.",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Briess Blackprinz Malt",
+            "description": "Subtle, smooth, no bitter, astringent, dry flavors or aftertaste, very delicate clean flavor, mild roasted malty flavor.",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "British Pale Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Brown Sugar",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Buckwheat - Roasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "C-15",
+            "description": "The flavor is slightly sweet. It is usually used in very light colored beers such as Pilsners and Pale Ales to add body, malt flavor and a little color.",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 8,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Canada 2-Row Silo",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cane Sugar",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cara Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraAmber",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraBelge",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraBohemian",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraBrown",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Carafa Special",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraHell",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Dark",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Extra Dark",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Gold",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Heritage",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Light",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Medium",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Caramel/Crystal Malt - Organic",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich 120L",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich 20L",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich 40L",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich 60L",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich 80L",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich I",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich II",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraMunich III",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraRye",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "CaraStan",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Body",
+                    "description": "Increases the body of the beer."
+                },
+                {
+                    "name": "Caramel",
+                    "description": "Imparts a caramel quality upon the beer."
+                },
+                {
+                    "name": "Head",
+                    "description": "Helps the head retention of the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Carolina Rye Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cereal",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cherry Smoked",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cherrywood Smoke Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Chestnuts",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Chit Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Coffee Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Coffee Malt - Light",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Corn",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Corn - Field",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Corn - Flaked",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Corn Grits",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Corn Sugar/Dextrose",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Cornmeal",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Crisp 120",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Crisp 77",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Crystal 77",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Dark Chocolate",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Dememera Sugar",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Dextrin Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Dextrose Syrup",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Extra Special Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Fawcett Crystal Rye",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Fawcett Rye",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Fructose",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "German Cologne",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Gladfield Pale",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Glen Eagle Maris Otter",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Glucose",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Harrington 2-Row Base Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Hazelnut - Roasted",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "High Fructose Corn Syrup",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Honey",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Hugh Baird Pale Ale Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Kiln Amber",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Lactose",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Malted Rye",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Malto Franco-Belge Pils Malt",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Maltodextrin",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Maltoferm",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Maltose",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Maple Syrup",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Metcalfe",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Midnight Wheat",
+            "decription": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Millet",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Dark",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Light",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Organic",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Smoked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Smoked",
+                    "description": "Imparts a smoked quality upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Type I",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt - Type II",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt 10L",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt 20L",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt 40L",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Malt 5L",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                },
+                {
+                    "name": "Sweet",
+                    "description": "Imparts a sweet flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Munich Wheat",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Flaked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Golden Naked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Rolled",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Steel Cut (Pinhead Oats)",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Oats - Toasted",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Chocolate Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [
+                {
+                    "name": "Malty",
+                    "description": "Imparts a malty flavor upon the beer."
+                }
+            ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Malt - Golden Promise",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Malt - Halcyon",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Malt - Organic",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pale Wheat",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Palev",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Palm Sugar",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pearl Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Peated Malt - Smoked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Piloncillo",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pilsner 2RS",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pilsner Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Pilsner Malt - Organic",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rahr Special Pale",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rauchmalz",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rice",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rice - Flaked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rice - Hulls",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rice - Red",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rice - White",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Roast Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rye - Flaked",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Rye Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Samuel Adams two-row pale malt blend",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Scottish Malt",
+            "description": "", 
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Sorghum - Roasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Special W Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Spelt Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Sugar (Albion)",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Sugar - Dark",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Superior Pilsen",
+            "description": "Crisp and clean as the air on Mount Rainier, this two row malt is simply superior. It's perfect for brewing the malty, light-colored lagers and ales we all crave after a hearty day in the great outdoors.",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 4.2,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Torrefied Wheat",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Treacle",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Barley Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pale Malt - Organic",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pale Malt - Smoked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pale Malt - Toasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Two-Row Pilsner Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Vienna Red",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Weyermann Rye",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Flaked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Raw",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Red",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Roasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Toasted",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat - Torrified",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Light",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Organic",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Red",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wheat Malt - Smoked",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "White Wheat",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        },
+        {
+            "name": "Wyermann Vienna",
+            "description": "",
+            "countryOfOrigin": "",
+            "srmId": 0,
+            "srmPrecise": 0,
+            "moistureContent": 0,
+            "coarseFineDifference": 0,
+            "diastaticPower": 0,
+            "dryYield": 0,
+            "potential": 0,
+            "protein": 0,
+            "maxInBatch": 0,
+            "requiresMashing": "",
+            "characteristics": [ ],
+            "category": "malt"
+        }
+    ]
+}

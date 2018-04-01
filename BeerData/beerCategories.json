@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "name": "British Origin Ales",
+            "description":""
+        },
+        {
+            "name": "Irish Origin Ales",
+            "description":""
+        },
+        {
+            "name": "North American Origin Ales",
+            "description":""
+        },
+        {
+            "name": "German Origin Ales",
+            "description":""
+        },
+        {
+            "name": "Belgian And French Origin Ales",
+            "description":""
+        },
+        {
+            "name": "International Ale Styles",
+            "description":""
+        },
+        {
+            "name": "European-germanic Lager",
+            "description":""
+        },
+        {
+            "name": "North American Lager",
+            "description":""
+        },
+        {
+            "name": "Other Lager",
+            "description":""
+        },
+        {
+            "name": "International Styles",
+            "description":""
+        },
+        {
+            "name": "Hybrid/mixed Beer",
+            "description":""
+        },
+        {
+            "name": "Mead, Cider, & Perry",
+            "description":""
+        },
+        {
+            "name": "Other Origin",
+            "description":""
+        },
+        {
+            "name": "Malternative Beverages",
+            "description": "Malternative Beverages, also known as \"ready-to-drink\" beverages, are sweet, sometime carbonated, beverages that are low in alcohol."
+        }
+    ]
+}
