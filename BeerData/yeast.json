@@ -1,10 +1,6 @@
 {
     "data": [
         {
-            "name": "10th Anniversary Blend",
-            "category": "yeast"
-        },
-        {
             "name": "Abbey Ale",
             "description": "Used to produce Trappist style beers. Similar to WLP500, but is less fruity and more alcohol tolerant (up to 15% ABV). Excellent yeast for high gravity beers, Belgian ales, dubbels and trippels.",
             "yeastType": "ale",

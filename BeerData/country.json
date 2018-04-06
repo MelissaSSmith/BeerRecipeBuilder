@@ -3,77 +3,66 @@
         {
             "isoCode": "US",
             "name": "UNITED STATES",
-            "displayName": "United States",
             "isoThree": "USA",
             "numberCode": 840
         },
         {
             "isoCode": "GB",
             "name": "UNITED KINGDOM",
-            "displayName": "United Kingdom",
             "isoThree": "GBR",
             "numberCode": 826
         },
         {
             "isoCode": "NZ",
             "name": "NEW ZEALAND",
-            "displayName": "New Zealand",
             "isoThree": "NZL",
             "numberCode": 554
         },
         {
             "isoCode": "DE",
             "name": "GERMANY",
-            "displayName": "Germany",
             "isoThree": "DEU",
             "numberCode": 276
         },
         {
             "isoCode": "AT",
             "name": "AUSTRIA",
-            "displayName": "Austria",
             "isoThree": "AUT",
             "numberCode": 40
         },
         {
             "isoCode": "FR",
             "name": "FRANCE",
-            "displayName": "France",
             "isoThree": "FRA",
             "numberCode": 250
         },
         {
             "isoCode": "CZ",
             "name": "CZECH REPUBLIC",
-            "displayName": "Czech Republic",
             "isoThree": "CZE",
             "numberCode": 203
         },
         {
             "isoCode": "AU",
             "name": "AUSTRALIA",
-            "displayName": "Australia",
             "isoThree": "AUS",
             "numberCode": 36
         },
         {
             "isoCode": "PL",
             "name": "POLAND",
-            "displayName": "Poland",
             "isoThree": "POL",
             "numberCode": 616
         },
         {
             "isoCode": "BE",
             "name": "BELGIUM",
-            "displayName": "Belgium",
             "isoThree": "BEL",
             "numberCode": 56
         },
         {
             "isoCode": "CA",
             "name": "CANADA",
-            "displayName": "Canada",
             "isoThree": "CAN",
             "numberCode": 124
         }
